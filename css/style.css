@@ -615,3 +615,14 @@ body {
 .navigation-slide {
 	cursor: pointer;
 }
+
+#logo {
+	width: 100px;
+	height: 100px;
+	border: 1px solid black;
+	border-radius: 5px;
+}
+
+#h1-top {
+	margin-top: 0px;
+}
